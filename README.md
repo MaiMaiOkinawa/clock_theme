@@ -1,1 +1,1 @@
-# clock_theme
+# theme_clock
